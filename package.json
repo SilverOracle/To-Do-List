@@ -1,0 +1,24 @@
+{
+  "name": "totodoooo",
+  "version": "1.0.0",
+  "description": "moygovnokod",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Max Matukhno",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nconf": "^0.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "i_am_the_hobo"
+  }
+}

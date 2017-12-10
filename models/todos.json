@@ -1,0 +1,23 @@
+{
+  "1": {
+    "name": "Bathe the cat"
+  },
+  "2": {
+    "name": "Dry the cat"
+  },
+  "3": {
+    "name": "Feed the cat"
+  },
+  "4": {
+    "name": "Go shopping"
+  },
+  "5": {
+    "name": "Watch movie"
+  },
+  "6": {
+    "name": "Do laundry"
+  },
+  "7": {
+    "name": "Do nothing & procrastinate"
+  }
+}
