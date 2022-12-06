@@ -10,8 +10,8 @@
   "author": "Max Matukhno",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "nconf": "^0.8.5"
   },
   "devDependencies": {
